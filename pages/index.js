@@ -8,7 +8,7 @@
 * 
 *  Name: Yigit Dalkilic Student ID: 124657230 Date: December 05, 2025
 *
-*  Vercel App (Deployed) Link: _____________________________________________________
+*  Vercel App (Deployed) Link: https://web422-assignment3-nextjs.vercel.app/
 *
 ********************************************************************************/
 
